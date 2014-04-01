@@ -1,4 +1,1 @@
-Usenet
-======
-
-Usenet app for iOS
+Work in progress...
